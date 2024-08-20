@@ -147,6 +147,7 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 - [vtk](https://www.vtk.org/) - 3D computer graphics, image processing, and visualization that includes a Python interface.
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - generates statistical analytic reports with visualization for quick data analysis.
 - [pyechars](https://github.com/pyecharts/pyecharts) - Python binding for Echarts library.
+- [PyGWalker](https://github.com/Kanaries/pygwalker) - Python alternative to Tableau
 
 ## R tools
 - [ggplot2](https://ggplot2.tidyverse.org/) - A plotting system based on the grammar of graphics.
