@@ -7,6 +7,7 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 
 ## Contents
 - [Awesome dataviz](#awesome-dataviz)
+  	- [Full Frameworks](#Full-Frameworks)
 	- [JavaScript tools](#javascript-tools)
 		- [Charting libraries](#charting-libraries)
 		- [Charting libraries for graphs](#charting-libraries-for-graphs)
@@ -31,6 +32,10 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
  	- [Websites](#websites)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Full Frameworks
+- [Dash / Plotly](https://github.com/plotly/dash) - The most downloaded visualization framework. Includes Plotly, Dash, Python, and Javascript visualization
+- [Grafana](https://github.com/grafana/grafana) - A widely used, straightforward graphing and visualization system. 
 
 ## JavaScript tools
 
